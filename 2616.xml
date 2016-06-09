@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Change Four
+                <title level="a" xml:lang="en">Change Five
                                         — <foreign xml:lang="syr">ܬܠܐ</foreign>
                 </title>
                 <title level="m" xml:lang="en">The Syriac Gazetteer</title>
@@ -17,7 +17,7 @@
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#tcarlson">Thomas A. Carlson</editor>
                 <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
                 <respStmt>
-                    <resp>Record created</resp>
+                    <resp>Change 6</resp>
                     <name ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
                 </respStmt>
                 <respStmt>
